@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">rssfeed</string>
+    <string-array name="rss_feeds">
+        <item name="google">News from google</item>
+        <item name="facebook">News from facebook</item>
+        <item name="twitter">News from twitter</item>
+        <item name="instagram">News from instagram</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
