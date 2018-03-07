@@ -10,4 +10,4 @@ My Attempt to learn android programming.
 | JSON Reset   | Leverages typicode mock rest api to experiment with listview and custom listview with arrayaadapters and basic async tasks |
 | dummybooks   | Leverages RecycleView and all it components |
 | todo         | ArrayAdapter capabilities |
-
+| progressbar  | Designing custom component |
